@@ -5,4 +5,5 @@ public class Printer {
     //baratov
     //.
     //oo
+    static void print(){}
 }
